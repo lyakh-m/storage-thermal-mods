@@ -1,4 +1,4 @@
-# [MOD] MD1200/SC200 EMM Expander Thermal Fix — 40mm Fan, $3, −10°C
+# [MOD] MD1200/SC200 EMM Expander Thermal Fix — 40mm Fan, $3, −7°C
 
 Hey everyone,
 
