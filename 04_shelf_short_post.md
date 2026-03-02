@@ -23,11 +23,11 @@ Before:  EXP0 = 63°C, EXP1 = 60°C  (both stock)
 After:   EXP0 = 63°C, EXP1 = 53°C  (fan on EXP1 only)
 ```
 
-**−10°C on junction temperature at 1W.** Rough prototype — cleaner build should do better.
+**−7°C on junction temperature at 1W.** Rough prototype — cleaner build should do better.
 
 This means:
 - Thermal cycling stress on BGA cut nearly in half
-- Semiconductor lifetime roughly doubled (Arrhenius rule: −10°C ≈ 2× life)
+- Semiconductor lifetime roughly doubled (Arrhenius rule: −7°C ≈ 1.5× life)
 - You can now safely reduce main fan speed without killing your expanders
 
 ## Why You Should Care
